@@ -1,0 +1,35 @@
+{
+  "name": "fugiatdolor",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "ethereum",
+    "odio",
+    "et",
+    "deploy"
+  ],
+  "authors": [
+    {
+      "name": "Fabian Vogelsteller",
+      "email": "fabian@lukso.network",
+      "homepage": "https://github.com/frozeman"
+    }
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "eth-lib": "^0.1.29",
+    "ethereumjs-tx": "^2.1.2",
+    "ethers": "^5.0.19"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "author": "AnnabelleBartoletti",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LulaPadberg/fugiatdolor.git"
+  }
+}
